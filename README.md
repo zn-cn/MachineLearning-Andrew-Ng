@@ -1,2 +1,6 @@
-# MachineLearning-exercise
-吴恩达的机器学习课程的练习（使用OCtave）
+# MachineLearning
+一部分为曾经打的一个和机器学习有关的比赛
+
+一部分为吴恩达课程学习笔记和编程题以及编程题答案
+
+一部分为octave学习教程
